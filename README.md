@@ -23,8 +23,8 @@ The goal of this repository is to organize my notes, write-ups, and research whi
 
 | Topic | Status |
 |--------|--------|
-| Wireshark | ✅ Completed |
-| Splunk | ✅ Completed |
+| Wireshark | ⏳ Planned |
+| Splunk | ⏳ Planned |
 | MITRE ATT&CK | 🚧 In Progress |
 | Cyber Kill Chain | ⏳ Planned |
 | NIST 800-53 | ⏳ Planned |
